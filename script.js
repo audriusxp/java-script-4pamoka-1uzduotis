@@ -10,12 +10,11 @@ window.onload = function ()
 }
 function skaiciusDaugiauSimta(skaicius)
 {
- if (skaicius>100){
-     return true;
- }
- else 
- g{
-     return false;
- }
+    if (skaicius>100){
+        return true;
+    }
+    else {
+        return false;
+    }
 }
 
