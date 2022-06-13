@@ -1,4 +1,5 @@
-window.onload = function (){
+window.onload = function ()
+{
     let x = 100;
     let y = 123;
     let z = -212;
